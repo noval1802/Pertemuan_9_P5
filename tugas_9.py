@@ -1,11 +1,10 @@
-#Membuat Program Sederhana Menampilkan Daftar Nilai Mahasiswa
-#Koding By: Abdul Aziz Anaoval
+#NAMA : Abdul Aziz Anaoval
 #NIM : 312010049
 #KELAS : TI.20.A.1
 
 P = print
 print("Masukan data mahasiswa")
-print("...")
+print("~~~~~~~~~~~~~~~~~~~~~~")
 nama = input("Masukan Nama Anda :")
 nim = int(input("Masukan NIM Anda :"))
 nilai_tugas = int(input("Masukan nilai tugas :"))
